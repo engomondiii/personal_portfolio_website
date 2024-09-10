@@ -3,7 +3,7 @@ import './Resume.css';
 import passportPhoto from '../../assets/images/passport photo.jpg'; // Replace with the actual path
 
 // Your resume PDF link
-const resumePdfLink = "https://example.com/your-resume.pdf"; // Update this with the actual link
+const resumePdfLink = "https://drive.google.com/file/d/1v-zK-0_hzAfmzk3iZCFbQqpVSN9Fo3cF/view?usp=drive_link"; // Update this with the actual link
 
 const Resume = () => {
   return (
